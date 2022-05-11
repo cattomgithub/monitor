@@ -22,17 +22,19 @@
     "url": "https://cloud.cattom.site:81",
     "icon": "https://favicons.githubusercontent.com/cloud.cattom.site",
     "slug": "cloud",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 896,
     "timeDay": 896,
     "timeWeek": 896,
     "timeMonth": 896,
     "timeYear": 896,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-11": 0
+    }
   }
 ]
