@@ -19,6 +19,9 @@ sites:
   - name: Get acme
     url: https://get.acme.cattom.site
 
+assignees:
+  - cattomgithub
+
 status-website:
   cname: status.cattom.site
   # baseUrl: /monitor
