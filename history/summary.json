@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 417,
-    "timeDay": 417,
-    "timeWeek": 417,
-    "timeMonth": 417,
-    "timeYear": 417,
+    "time": 676,
+    "timeDay": 676,
+    "timeWeek": 676,
+    "timeMonth": 676,
+    "timeYear": 676,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/cloud.cattom.site",
     "slug": "cloud",
     "status": "up",
-    "uptime": "94.59%",
-    "uptimeDay": "94.59%",
-    "uptimeWeek": "94.59%",
-    "uptimeMonth": "94.59%",
-    "uptimeYear": "94.59%",
-    "time": 809,
-    "timeDay": 809,
-    "timeWeek": 809,
-    "timeMonth": 809,
-    "timeYear": 809,
-    "dailyMinutesDown": {
-      "2022-05-11": 14
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 836,
+    "timeDay": 836,
+    "timeWeek": 836,
+    "timeMonth": 836,
+    "timeYear": 836,
+    "dailyMinutesDown": {}
   }
 ]
