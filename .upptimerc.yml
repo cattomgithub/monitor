@@ -2,7 +2,7 @@ owner: cattomgithub
 repo: monitor
 
 sites:
-  - name: 2 QCloud Guangzhou
+  - name: 2 Qcloud Guangzhou
     check: "tcp-ping"
     url: $SECRET_URL_1
     port: 22
