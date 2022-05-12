@@ -2,23 +2,34 @@ owner: cattomgithub
 repo: monitor
 
 sites:
+  - name: 2 QCloud Guangzhou
+    check: "tcp-ping"
+    url: $SECRET_URL_1
+    port: 22
+  - name: 3 Buyvm Las Vegas
+    check: "tcp-ping"
+    url: $SECRET_URL_2
+    port: 22
   - name: Blog
     url: https://blog.cattom.site
   - name: Cloud
     url: https://cloud.cattom.site:81
+  - name: Library
+    url: https://library.cattom.site
+  - name: Get acme
+    url: https://get.acme.cattom.site
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.cattom.site
   # baseUrl: /monitor
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  favicon: https://cattom.oss-cn-shenzhen.aliyuncs.com/icon/favicon.ico
+  logoUrl: https://cattom.oss-cn-shenzhen.aliyuncs.com/icon/192.png
+  name: Cat Tom Service Uptime
+  introTitle: "**Cat Tom Service Uptime**"
+  introMessage: To be, or not to be, that is the question.
   navbar:
-    - title: Status
-      href: https://status.cattom.site
+    - title: Blog
+      href: https://blog.cattom.site
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
