@@ -22,10 +22,10 @@
     "url": "$SECRET_URL_2",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "3-buyvm-las-vegas",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 45,
@@ -33,17 +33,19 @@
     "timeWeek": 82,
     "timeMonth": 48,
     "timeYear": 45,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-04": 1
+    }
   },
   {
     "name": "Blog",
     "url": "https://blog.cattom.site",
     "icon": "https://favicons.githubusercontent.com/blog.cattom.site",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 479,
@@ -51,7 +53,9 @@
     "timeWeek": 536,
     "timeMonth": 471,
     "timeYear": 479,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-04": 1
+    }
   },
   {
     "name": "Cloud",
@@ -59,18 +63,17 @@
     "icon": "https://favicons.githubusercontent.com/cloud.cattom.site",
     "slug": "cloud",
     "status": "up",
-    "uptime": "99.56%",
-    "uptimeDay": "99.75%",
-    "uptimeWeek": "99.45%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "99.56%",
+    "uptime": "99.57%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.49%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.57%",
     "time": 1056,
-    "timeDay": 916,
+    "timeDay": 917,
     "timeWeek": 845,
     "timeMonth": 869,
     "timeYear": 1056,
     "dailyMinutesDown": {
-      "2022-07-04": 4,
       "2022-06-29": 27,
       "2022-06-28": 25,
       "2022-06-06": 51,
@@ -103,11 +106,11 @@
     "url": "https://get.acme.cattom.site",
     "icon": "https://favicons.githubusercontent.com/get.acme.cattom.site",
     "slug": "get-acme",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 377,
     "timeDay": 630,
@@ -115,6 +118,7 @@
     "timeMonth": 392,
     "timeYear": 377,
     "dailyMinutesDown": {
+      "2022-07-04": 0,
       "2022-06-30": 15
     }
   }
