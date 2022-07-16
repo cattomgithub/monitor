@@ -14,8 +14,8 @@ sites:
     url: https://blog.cattom.site
   - name: Cloud
     url: https://cloud.cattom.site:81
-  - name: Library
-    url: https://library.cattom.site
+  - name: Drive
+    url: https://drive.cattom.site
   - name: Get acme
     url: https://get.acme.cattom.site
 
