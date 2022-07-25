@@ -12,10 +12,16 @@ sites:
     port: 22
   - name: Blog
     url: https://blog.cattom.site
+  - name: Note
+    url: https://note.cattom.site
   - name: Cloud
     url: https://cloud.cattom.site:81
   - name: Drive
     url: https://drive.cattom.site
+  - name: AriaNg
+    url: https://ariang.cattom.site
+  - name: SSL Certs Check
+    url: https://cert.cattom.site
   - name: Get acme
     url: https://get.acme.cattom.site
 
@@ -25,8 +31,8 @@ assignees:
 status-website:
   cname: status.cattom.site
   # baseUrl: /monitor
-  favicon: https://cattom.oss-cn-shenzhen.aliyuncs.com/icon/favicon.ico
-  logoUrl: https://cattom.oss-cn-shenzhen.aliyuncs.com/icon/192.png
+  favicon: https://static.cattom.site/image/icon/favicon.ico
+  logoUrl: https://static.cattom.site/image/icon/192.png
   name: Cat Tom Service Uptime
   introTitle: "**Cat Tom Service Uptime**"
   introMessage: To be, or not to be, that is the question.
