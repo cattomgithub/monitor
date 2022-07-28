@@ -20,8 +20,8 @@ sites:
     url: https://drive.cattom.site
   - name: AriaNg
     url: https://ariang.cattom.site
-  - name: SSL Certs Check
-    url: https://cert.cattom.site
+  - name: SSL Check
+    url: https://ssl.cattom.site
   - name: Get acme
     url: https://get.acme.cattom.site
 
