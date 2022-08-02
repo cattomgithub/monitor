@@ -12,18 +12,10 @@ sites:
     port: 22
   - name: Blog
     url: https://blog.cattom.site
-  - name: Note
-    url: https://note.cattom.site
   - name: Cloud
     url: https://cloud.cattom.site:81
   - name: Drive
     url: https://drive.cattom.site
-  - name: AriaNg
-    url: https://ariang.cattom.site
-  - name: SSL Check
-    url: https://ssl.cattom.site
-  - name: Get acme
-    url: https://get.acme.cattom.site
 
 assignees:
   - cattomgithub
